@@ -1,4 +1,0 @@
-The dataset i will using in regression models are :
-House price prediction dataset
-Number of hours studied vs marks scored
-
